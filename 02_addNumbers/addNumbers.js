@@ -4,10 +4,9 @@ function addNumbers() {
 
   let result;
 
-  result = "a" + "b"; // <------ EDIT THIS LINE
+  result = a + b; // <------ EDIT THIS LINE
 
   return result;
 }
-
 // Do not change this
 module.exports = addNumbers;
